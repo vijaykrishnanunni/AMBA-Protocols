@@ -1,8 +1,11 @@
-Feature                  Present
+Feature                  present
 
-Basic burst transfer     Yes
-AXI handshake            Yes
-Read/write burst         Yes
+Basic burst transfer     
+AXI handshake            
+Read/write burst         
+
+
+
 
 Outstanding transactions No
 ID tracking              No

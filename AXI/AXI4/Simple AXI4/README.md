@@ -7,10 +7,10 @@ Read/write burst
 
 
 
-Outstanding transactions No
-ID tracking              No
-Multiple channel FSMs    No
-Error handling           No
-WRAP bursts              No
-Write strobes            No
-High throughput pipeline No
+Outstanding transactions 
+ID tracking            
+Multiple channel FSMs    
+Error handling           
+WRAP bursts              
+Write strobes           
+High throughput pipeline 

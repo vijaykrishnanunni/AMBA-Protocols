@@ -1,14 +1,11 @@
-Basic 
-
-
-
-Feature                  present
+Basic FeatureS                  present
 
 Basic burst transfer     
 AXI handshake            
 Read/write burst         
 
 Features not present
+
 Outstanding transactions 
 ID tracking            
 Multiple channel FSMs    

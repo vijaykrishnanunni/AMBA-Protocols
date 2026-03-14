@@ -1,5 +1,4 @@
-Basic FeatureS                  present
-
+Basic Features                 present
 Basic burst transfer     
 AXI handshake            
 Read/write burst         

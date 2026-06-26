@@ -1,12 +1,6 @@
 
 // UART Receiver 
 
-//   PARITY_EN   - 0 = no parity, 1 = parity enabled
-//   PARITY_TYPE - 0 = even parity, 1 = odd parity
-
-//   rx_parity_err- Pulses HIGH if parity mismatch detected
-//   rx_frame_err - Pulses HIGH if stop bit is missing
-// ============================================================
 
 module uart_rx #(
     parameter CLK_FREQ    = 50_000_000,
